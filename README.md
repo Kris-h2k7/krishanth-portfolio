@@ -1,59 +1,138 @@
-# KrishanthPortfolio
+# 🚀 Krishanth H — Personal Portfolio
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 22.1.3.
+> A modern, responsive personal portfolio built with Angular,
+> HTML and CSS to showcase my skills, projects and journey
+> as an Artificial Intelligence & Data Science student.
 
-## Development server
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-To start a local development server, run:
+🌐 LIVE DEMO
+🔗 [View Portfolio]
 
-```bash
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+👨‍💻 ABOUT
+
+Hi! I'm Krishanth H, an Artificial Intelligence & Data Science
+student passionate about Artificial Intelligence, Machine
+Learning, Data Science and Web Development.
+
+This portfolio was designed and developed from scratch using
+Angular, HTML and CSS.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+✨ FEATURES
+
+• Modern responsive UI
+• Sticky navigation bar
+• Hero section
+• About section
+• Technical skills showcase
+• Projects showcase
+• Contact section
+• GitHub integration
+• LinkedIn integration
+• Responsive design for mobile, tablet and desktop
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🛠️ TECH STACK
+
+Frontend
+├── Angular
+├── TypeScript
+├── HTML5
+└── CSS3
+
+Development
+├── Node.js
+├── npm
+├── Angular CLI
+└── Git & GitHub
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🏗️ PROJECT STRUCTURE
+
+src/
+└── app/
+    ├── components/
+    │   ├── navbar/
+    │   ├── hero/
+    │   ├── about/
+    │   ├── skills/
+    │   ├── projects/
+    │   └── contact/
+    │
+    ├── app.html
+    ├── app.css
+    └── app.ts
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+⚙️ HOW IT WAS CREATED
+
+1. Created the Angular project
+2. Configured CSS styling
+3. Built the navigation bar
+4. Designed the hero section
+5. Added the About section
+6. Added technical skills
+7. Added projects
+8. Created the contact section
+9. Added GitHub and LinkedIn links
+10. Made the website responsive
+11. Tested the application locally
+12. Initialized Git
+13. Committed the project
+14. Pushed the project to GitHub
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🚀 RUN LOCALLY
+
+git clone https://github.com/Kris-h2k7/krishanth-portfolio.git
+
+cd krishanth-portfolio
+
+npm install
+
 ng serve
-```
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+Open:
 
-## Code scaffolding
+http://localhost:4200/
 
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-```bash
-ng generate component component-name
-```
+📬 CONTACT
 
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
+📧 9221krishanth@gmail.com
 
-```bash
-ng generate --help
-```
+🐙 GitHub: Kris-h2k7
 
-## Building
+💼 LinkedIn: Krishanth H
 
-To build the project run:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-```bash
-ng build
-```
+📚 WHAT I LEARNED
 
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
+• Angular component architecture
+• TypeScript fundamentals
+• Responsive CSS
+• Git and GitHub workflow
+• Building reusable UI components
+• Structuring a real-world frontend project
+• Deploying and maintaining a personal portfolio
 
-## Running unit tests
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-To execute unit tests with the [Vitest](https://vitest.dev/) test runner, use the following command:
+🔮 FUTURE IMPROVEMENTS
 
-```bash
-ng test
-```
-
-## Running end-to-end tests
-
-For end-to-end (e2e) testing, run:
-
-```bash
-ng e2e
-```
-
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
-
-## Additional Resources
-
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+• Add animations
+• Add dark/light mode
+• Add downloadable resume
+• Add project live demos
+• Add contact form backend
+• Deploy the portfolio
